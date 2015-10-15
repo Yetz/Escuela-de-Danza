@@ -1,0 +1,72 @@
+
+.bgimage-1{
+	background-image: url(../img/dance_1.jpg);
+	height: 470px;
+}
+
+.letter1{
+	font-size: 400%;
+	font-weight: bolder;
+	padding-top: 25%;
+	margin-bottom: 10%;
+	padding-right:80%;
+}
+
+.map{
+	border:1px solid #020720;
+}
+.boton-1{
+width: 40%;
+height: 20%;
+margin-top: 30px;	
+}
+
+.bgimage2{
+	background-image: url(../img/instructor_4.jpg), url("../img/profesor_9.jpg");
+	background-size: 50%,50%;
+	background-position: left top,right top;
+	background-repeat: no-repeat;
+	border: 2px solid #020720;
+}		
+
+.letter2{
+	font-family: Latolight;
+	font-size: 130%;
+	font-weight: bolder;
+	padding-top: 60px;
+}
+
+.boton-2 {
+	width: 35%;
+	height: 55px;
+	margin-left: 310px;
+}
+
+.bgimage3{
+	background-image: url(../img/shoes_!.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 800px;
+
+}
+
+.map{
+	
+	width: 80%;
+	height: 260px;
+	padding-top: 78px;
+	position: relative;
+}
+
+.bgmeasure-blue2{
+	height: 200px;
+}
+
+.boton-3{
+	width: 450px;
+	height: 80px;
+	margin-left: 230px;
+	margin-top: 150px;
+}
+
+	

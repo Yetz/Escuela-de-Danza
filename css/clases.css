@@ -1,0 +1,46 @@
+.profile1{
+
+	
+}
+
+.measure-gray{
+	width: 50%;
+	height: 30%;
+}
+
+.measure-gray{
+	width: 50px;
+	height: 30px;
+}
+
+
+.bgimage-ballet{
+	background-image: url(../img/dance_12.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.bgimage-breakdance{
+	background-image: url(../img/breakdance.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.bgimage-jazz{
+	background-image: url(../img/lirical-jazz.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.measure-image{
+	width: 30%;
+	height: 540px;
+
+}
+
+.text-square{
+	width: 90%;
+	height: 25%;
+	margin-top: 60%;
+	margin-left: 5%;
+}
+

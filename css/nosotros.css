@@ -1,0 +1,39 @@
+.screen{
+
+	background-image: url(../img/dance_7.jpg);
+	background-image: 140%;
+	background-position: left;
+	background-repeat: no-repeat;
+	min-height: 400px;
+	
+}
+		
+div.hr{ 
+border-top: 1px dashed #000; 
+}
+
+.bg-nosotros{
+	background-image: url(../img/tile2.png);
+	height: 350px;
+}
+
+.bg-cubes{
+	background-image: url(../img/cubes.png);
+	height: 250px;
+	background-size: 100%;
+}
+
+#profile{
+	
+	width: 100%;
+	height: 200px;
+}
+
+.about-us{
+	margin-top: 80px;
+	margin-left: 230px;
+}
+
+.text-square{
+	margin-bottom: 90px;
+}
